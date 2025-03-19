@@ -8,23 +8,6 @@ Déploiement
 
 Ce site est déployé via GitHub Pages et accessible en ligne.
 
-Structure du projet
-
-📦 trafnosleep
-├── 📂 assets             # Fichiers CSS et JS
-├── 📂 images             # Ressources graphiques
-├── 📂 SMTPDebug          # Debug pour l'envoi d'emails
-├── 📄 index.html         # Page d'accueil
-├── 📄 boutique.html      # Page Boutique
-├── 📄 contact.html       # Formulaire de contact avec envoi via Nodemailer
-├── 📄 faq.html           # Foire aux questions
-├── 📄 projets.html       # Présentation des projets
-├── 📄 services.html      # Liste des services
-├── 📄 solutions.html     # Solutions proposées
-├── 📄 solutions-et-services.html # Détails des services et solutions
-├── 📄 success.html       # Page de confirmation après action
-├── 📄 README.md          # Documentation du projet
-
 Fonctionnalités
 
 Interface simple et efficace pour naviguer entre les différentes pages.
