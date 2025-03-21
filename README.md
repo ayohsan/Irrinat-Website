@@ -1,14 +1,14 @@
-# Irrinat - Site Web 🌐
+# 🌐 Irrinat - Site Web 
 
-## Description 📝
+## 📝 Description 
 
 Irrinat est un site web statique conçu pour présenter des services et solutions. Il inclut plusieurs pages, dont une boutique, une page de contact, une FAQ, ainsi que des sections sur les projets et services proposés.
 
-## Déploiement 🚀
+## 🚀 Déploiement 
 
 Ce site est déployé via GitHub Pages et accessible en ligne.
 
-## Fonctionnalités ⚙️
+## ⚙️ Fonctionnalités 
 
 Interface simple et efficace pour naviguer entre les différentes pages.
 
@@ -16,7 +16,7 @@ Formulaire de contact avec intégration Nodemailer pour l'envoi d'emails.
 
 Mise en page optimisée avec FontAwesome pour les icônes et un design responsive.
 
-## Installation locale 🖥️
+## 🖥️ Installation locale 
 
 Clonez le dépôt :
  
@@ -27,17 +27,17 @@ cd irrinat-website
 
 Ouvrez index.html dans un navigateur pour tester localement.
 
-## Contribution 💪
+## 💪 Contribution 
 
 Les contributions sont les bienvenues !
 
-Forkez le projet 🍴
+Forkez le projet 
 
 Créez une branche (feature/ajout-fonctionnalite)
 
 Faites vos modifications et ouvrez une Pull Request
 
-## Licence 📜
+## 📜 Licence 
 
 Ce projet est sous licence MIT. Vous êtes libre de l'utiliser et de le modifier. 🔓
 
