@@ -21,8 +21,8 @@ Mise en page optimisée avec FontAwesome pour les icônes et un design responsiv
 Clonez le dépôt :
  
 ``` bash
-git clone https://github.com/ayohsan/trafnosleep.git
-cd trafnosleep
+git clone https://github.com/ayohsan/Irrinat-Website.git
+cd Irrinat-Website
 ```
 
 Ouvrez index.html dans un navigateur pour tester localement.
